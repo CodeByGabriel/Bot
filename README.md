@@ -16,6 +16,7 @@ Faça o download do geckodriver https://geckodriver.com/download/
 (serve para executar os testes de aplicações Web de forma automatizada simulando as ações do usuário usando Selenium Web Driver)
 
 Na metade do código você tem "self.comente_nas_fotos_com_a_hashtag", nesta area você podera colocar a hashtag desejada.
+
 ![image](https://github.com/user-attachments/assets/db5299e0-e2b9-426e-82d6-489e93a2fdc7)
 
 Nos espaços de "usarname" e "password" do final do código, coloque seu usuário e sua senha, respectivamente.
