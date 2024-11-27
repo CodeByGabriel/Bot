@@ -1,6 +1,15 @@
 # Bot
-Repositório do Bot insta
+O bot é um automatizador para o Instagram desenvolvido com Selenium. Ele realiza as seguintes funções:
 
+__Login Automático:__ Acessa o site do Instagram e faz login usando o nome de usuário e senha fornecidos.
+
+**Busca por Hashtags:** Navega até uma página de hashtags específicas (no código atual, "culinaria").
+
+**Coleta de Links:** Rastreia e coleta links de postagens associadas à hashtag.
+
+**Comentários Automáticos:** Visita cada postagem coletada e deixa comentários pré-definidos de forma simulada, imitando a digitação humana.
+
+**Fechamento Automático:** Fecha o navegador automaticamente quando o programa termina ou a instância do bot é destruída.
 Acesse o Projeto para seguir o Tutorial.
 Instalar python para sua plataforma www.python.org/downloads/ e marque a opção "adicionar ao PATH".
 
